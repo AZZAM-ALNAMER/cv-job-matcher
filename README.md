@@ -1,5 +1,5 @@
-# CV–Job Matcher
 
+<<<<<<< HEAD
 > AI-powered platform that matches job seekers to relevant job opportunities using semantic search, vector embeddings, and RAG architecture.
 
 ---
@@ -24,3 +24,5 @@ CV–Job Matcher uses **semantic AI** to understand the *meaning* behind a candi
 - 🚀 **Direct Apply Links** — one click to the original posting
 
 ---
+=======
+>>>>>>> 55b8ec96f44b5d536cd8b3e8447c1f0911625b17
