@@ -24,5 +24,3 @@ CV–Job Matcher uses **semantic AI** to understand the *meaning* behind a candi
 - 🚀 **Direct Apply Links** — one click to the original posting
 
 ---
-
-## 🏗️ Architecture
